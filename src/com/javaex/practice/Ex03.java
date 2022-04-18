@@ -7,7 +7,7 @@ public class Ex03 {
 		int x,y;
 		for(x=0; x<4; x++) {
 			for(y=2; y>=0; y--) {
-				System.out.println("*");
+				System.out.print("*");
 			}
 			System.out.println("");
 		}

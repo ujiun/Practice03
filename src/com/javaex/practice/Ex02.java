@@ -9,8 +9,8 @@ public class Ex02 {
 			for(y=0; y<2; y++) {
 				System.out.print("*");
 			}
+			System.out.println("");
 		}
-		System.out.println("");
 	}
 
 }
